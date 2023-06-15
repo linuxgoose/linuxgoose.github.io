@@ -1,7 +1,8 @@
 ---
 layout: post
-title: ""
-categories: Blog
+title: The Catalyst That Is Kindness
+categories: [Blog,Kindness,Life]
+excerpt: What if there is a powerful and readily available tool l that could become a driving force to such a grim-painted future?
 ---
 In a world that is obsessed with efficiency and results, it is odd that there can be so little thought behind one’s next move. The push for analytics and year-over-year growth and profits has become a blinding light that promotes the reduction of humans to mere numbers. Once exciting journeys traversing the internet and media have become disturbing treks through a wasteland of bad news. It is understandable how so many of us have become hopeless and pessimistic craving the time of day where we can revert back to our dark rooms away from civilization.
 
