@@ -1,3 +1,25 @@
 = 7Lamb Productions Podcast Work
 
-Content and whatnot
+For several years I worked with Robert over at https://7lamb.com/[7Lamb Productions] on various shows, including Story, Cop Doctors, and Paralyzed. This work heavily focused on audio engineering and editing using Adobe Audition.
+
+== Story
+
+* Episode 23: The Walk: https://www.7lamb.com/audiodramas/story[Listen Here]
+
+== Paralyzed
+
+* Part 2 - Roland's Calls: https://www.7lamb.com/audiodramas/paralyzed[Listen Here]
+* Part 3 - Roland's Calls: https://www.7lamb.com/audiodramas/paralyzed[Listen Here]
+* Part 4 - Roland's Calls: https://www.7lamb.com/audiodramas/paralyzed[Listen Here]
+* Part 5 - Roland's Calls: https://www.7lamb.com/audiodramas/paralyzed[Listen Here]
+* Part 6 - Roland's Calls: https://www.7lamb.com/audiodramas/paralyzed[Listen Here]
+
+== Cop Doctors
+
+* Episode 13: https://www.7lamb.com/audiodramas/cop-doctors[Listen Here]
+* Episode 14: https://www.7lamb.com/audiodramas/cop-doctors[Listen Here]
+* Episode 16: https://www.7lamb.com/audiodramas/cop-doctors[Listen Here]
+* Episode 17: https://www.7lamb.com/audiodramas/cop-doctors[Listen Here]
+* Episode 20: https://www.7lamb.com/audiodramas/cop-doctors[Listen Here]
+* Episode 23: https://www.7lamb.com/audiodramas/cop-doctors[Listen Here]
+* Episode 27: https://www.7lamb.com/audiodramas/cop-doctors[Listen Here]
