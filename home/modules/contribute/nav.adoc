@@ -1,0 +1,11 @@
+* xref:ROOT:index.adoc[Home]
+
+.Portfolio
+* xref:ROOT:development_work.adoc[Development Work]
+* xref:ROOT:writing_work.adoc[Writing Work]
+
+.Podcast Work
+* xref:ROOT:7lamb.adoc[7Lamb Productions]
+* xref:ROOT:trek_profiles.adoc[Trek Profiles]
+
+* xref:ROOT:contact.adoc[Contact Me]
