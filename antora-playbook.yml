@@ -1,0 +1,29 @@
+antora:
+  extensions:
+  - '@antora/lunr-extension'
+site:
+  title: J. J. Robinson
+  url: https://www.jordanrobinson.org/
+  start_page: home::index.adoc
+  robots: |
+    User-agent: *
+    Allow: /
+git:
+  ensure_git_suffix: false
+  fetch_concurrency: 1
+urls:
+  latest_version_segment_strategy: redirect:to
+  latest_version_segment: current
+content:
+  sources:
+  - url: .
+    branches: main
+    start_path: home
+ui:
+  bundle:
+    url: https://github.com/linuxgoose/antora-goose-ui/releases/download/0.2.0/ui-bundle.zip
+    snapshot: true
+output:
+  dir: ./build/site
+runtime:
+  fetch: true
