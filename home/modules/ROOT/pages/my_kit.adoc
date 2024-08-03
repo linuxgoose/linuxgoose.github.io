@@ -1,0 +1,80 @@
+= My Kit - What I Use Daily
+
+I get asked a lot about the tools I use to build software, stay productive and organised, or buy to keep me productive and on top of things. Here is a big list of all my favorite stuff.
+
+== Workstation (2023 14” MacBook Pro, M2 Pro, 16GB RAM, 512GB SSD)
+
+I was using an Intel-based 15” MacBook Pro (Late 2016) prior to this and the difference is night and day. I have never heard the fans turn on a single time, even under the incredibly heavy loads I put it through with the number of applications and VMs (Parallels Windows 11) open. Nevermind the massive Football Manager 2024 databases I use.
+
+== OneBag (Patagonia Refugio 28L)
+
+For everyday carry and travelling, the Patagonia Refugio 28L is a bag that checks nearly every box for me. 
+
+* It isn't too big, nor too small. 
+* Is lightweight, but durable and well built (Patagonia's https://eu.patagonia.com/gb/en/repairs-returns-form.html[warranty and repair] philosophy is enough of a sell anyways - even for secondhand purchases like this).
+* Separate laptop slot (albeit a tad thin, but nothing that can't be worked around).
+* Some extra organisation, but not overly opinionated.
+* External carry points that also enable the use of shock-cord for carrying a picnic blanket or jacket.
+* Dual water-bottle holders.
+* Comfortable shoulder and chest straps.
+
+The only box it does not check is the waterproof capabilities. The main material is alright at keeping water at bay for a little bit if splashed, but consistent rain will get through in no time - especially with no water resistant capabilities on the zippers. Alas, that's okay. An inexpensive packable rain fly does the trick.
+
+NOTE: An honourable mention for my hiking pack - the *Red Original Waterproof Backpack 30L V1*. Aside from the 100% waterproof main compartment which is useful in the English countryside, the bag features dual water bottle holders, molle webbing and anchor points, and bungee cords that can be used to hold walking poles, provide extra security for your water bottles, or hold a jacket or wet towel.
+
+== Development tools
+=== Visual Studio Code
+
+I do not use many of the super fancy extensions nor am I wizard with the keyboard shortcuts, but I'd be reluctant to say this code editor not the correct choice for many teams (but really, I'm all for developers using what they are most productive with). And, of course, bonus points for it being open-source.
+
+NOTE: Honourable mention to https://vscodium.com/[VSCodium] which is the fully open-source version of VS Code as it is the community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
+
+=== GitHub
+
+I enjoy GitLab as well. The CI/CD capabilities of both will do. But, GitHub being as widely used as it is fits into my workflow better as less technical clients will often know GitHub over GitLab making the onboarding/off-boarding of clients more seamless.
+
+=== Microsoft Azure
+
+Alas, Microsoft Azure keeps luring me back to it. I have hopped over to Google Cloud many times along with spinning up the occasional VPS on a boutique provider's platform, but the usability and integration of Azure with VS Code and GitHub seems to fit my workflow and muscle memory best.
+
+I have been using Azure now for a couple of years managing personal and client projects with next to no complaints.
+
+NOTE: Honourable mention for *GitHub Pages*. I host many of the static sites I publish (like the one you are reading) here due to the cost (free / included with my GitHub subscription) and simplicity.
+
+== Design
+=== Mermaid.JS
+
+While https://mermaid.js.org/[Mermaid.JS] is not a _design_ tool in the sense of wire-framing frontends, it is a fantastic tool for graphs and diagrams for documentation.
+
+I have leaned hard into, and experienced great success with, https://www.writethedocs.org/guide/docs-as-code/[docs-as-code] and https://mermaid.js.org/[Mermaid.JS] has been instrumental in the success of my work with docs-as-code. I have been able to ship documentation faster, with more ease, and *consistency* due to the nature of Mermaid.JS being platform-agnostic.
+
+=== Figma
+
+We started using https://figma.com/[Figma] as just a design tool but now it is become our ideal virtual whiteboard that we use. The cross-platform collaboration tools are quite good and we have never encountered an issue onboarding clients to the tool making it a low-barrier option. FigJam time!
+
+=== Apple Freeform
+
+Some of my clients are Mac folks so I have been diving into Apple Freeform with them as part of their preferred toolkits. While it is fairly basic, it works just as well as you would expect from Apple. It is a no fuss, just-works, kind of whiteboard.
+
+== Productivity
+
+=== AsciiDoc
+
+As of late, I have dived head-first into https://asciidoc.org/[AsciiDoc] focusing on writing in a platform-agnostic plain-text format. Partly, this is due to my tendency to switch to new tools frequently leaving me having to continuously reformat some files to fit the new tool I am using (think Microsoft Word to Apple Pages).
+
+With https://asciidoc.org/[AsciiDoc] and https://docs.asciidoctor.org/[AsciiDoctor] this pretty much becomes a non-issue as I am able to write everything in a text editor that supports AsciiDoc (i.e., VS Code).
+
+For calculations, I am still learning inline-macros to execute calculations, but it is rare that I need this functionality. If anything, I can spin up a LibreOffice Calc Spreadsheet where needed.
+
+=== Obsidian
+
+While I am #TeamAsciiDoc, https://obsidian.md/[Obsidian] is my go-to tool for everyday notes. It checks off all of my requirements for a platform-agnostic and no-lock-in solution while also providing a pleasant application to work with.
+
+I have been able to spin-up a WebDav endpoint to sync any changes made on one device to another solving the issue of having to pay for Obsidian Sync as well.
+
+=== BackBlaze B2
+
+Just your simple and reliable object storage.
+
+I have recently been using https://www.backblaze.com/[BackBlaze's B2] object storage with https://mountainduck.io/[Mountain Duck] as a replacement cloud storage/sync tool (previously using iCloud and Filen). Like my other productivity tools, I opted for an open protocal (S3) that does not lock me in to a specific tool to interface with my files.
+
