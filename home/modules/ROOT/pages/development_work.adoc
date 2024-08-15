@@ -1,3 +1,17 @@
 = Development Work
 
-Content and whatnot
+Below is a list of some of my _official_ development projects. 
+
+If you're curious about what else I may work, head over to my https://github.com/linuxgoose[GitHub profile] to see _unofficial_ projects.
+
+== python-monitoring
+
+A super simple python monitoring program to monitor the status of an endpoint and log/report on the status and uptime. 
+
+https://github.com/linuxgoose/python-monitoring[GitHub Repository]
+
+== linuxgoose.github.io
+
+My personal website which often becomes my own sandbox. This is currently built using https://asciidoc.org/[AsciiDoc] and https://antora.org/[Antora].
+
+https://github.com/linuxgoose/linuxgoose.github.io[GitHub Repository]
