@@ -1,3 +1,7 @@
 = Home
 
-Content and whatnot
+Welcome to my personal website where I experiment with technology, flex my writing muscles, and work on the occasional podcast.
+
+As you may notice, this is not the typical personal website. My main focus at the moment is exploring the world of technical writing - which led me to my new fascination - https://asciidoc.org/[AsciiDoc] and https://antora.org/[Antora]. This site is built using both of these technologies as I explore how they can make my work easier.
+
+If you have an interest in technical writing and would like to collaborate, discuss, or need help - send me an mailto:hello@jordanrobinson.org[email].
