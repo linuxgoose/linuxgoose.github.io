@@ -2,7 +2,7 @@
 
 Below is a list of some of my _official_ development projects. 
 
-If you're curious about what else I may work, head over to my https://github.com/linuxgoose[GitHub profile] to see _unofficial_ projects.
+If you're curious about what else I may work on, head over to my https://github.com/linuxgoose[GitHub profile] to see _unofficial_ projects.
 
 == python-monitoring
 
