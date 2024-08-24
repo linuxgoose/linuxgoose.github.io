@@ -8,8 +8,6 @@
 * xref:ROOT:7lamb.adoc[7Lamb Productions]
 * xref:ROOT:trek_profiles.adoc[Trek Profiles]
 
-.What I Use
-* xref:ROOT:my_kit.adoc[My Kit]
+xref:ROOT:my_kit.adoc[My Kit]
 
-.Contact
-* xref:ROOT:contact.adoc[Contact Me]
+xref:ROOT:contact.adoc[Contact Me]
