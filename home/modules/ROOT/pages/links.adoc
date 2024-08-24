@@ -17,7 +17,7 @@ While I use a lot of different tools throughout my day, the below are some notab
 
 * https://mountainduck.io/[Mountain Duck]: Really great sync tool to get cloud sync capabilities close to Google Drive, Dropbox, etc... with https://www.backblaze.com/cloud-storage[BackBlaze B2].
 * https://cyberduck.io/[Cyberduck]: Useful for syncing single B2 buckets to offline storage when needed.
-* https://obsidian.md/[Obsidian]: Great tool to write notes in Markdown and sync with https://www.fastmail.help/hc/en-us/articles/1500000277882-Remote-file-access[Fastmail Filese WebDAV] for storage or https://www.backblaze.com/cloud-storage[BackBlaze B2].
+* https://obsidian.md/[Obsidian]: Great tool to write notes in Markdown and sync with https://www.fastmail.help/hc/en-us/articles/1500000277882-Remote-file-access[Fastmail Files WebDAV] for storage or https://www.backblaze.com/cloud-storage[BackBlaze B2].
 * https://adoc-studio.app/[adoc Studio]: While I tend to stick with https://code.visualstudio.com/[VS Code] or https://vscodium.com/[VSCodium], for those who are not developers (i.e., authors) or want some additional collaboration tools when writing in https://asciidoc.org/[AsciiDoc], adoc Studio is phenomenal.
 
 === Mobile
