@@ -1,0 +1,79 @@
+= Links - What I Like & Recommend
+
+Below are some links to things I use, like or had a hand in making.
+
+== Software & Web Services
+
+=== Productivity
+
+I have gone through a lot of web services trying to find my optimal solution, but always ran into a few deal breakers. Whether that was questionable company practices, lack of certain features, pricing, or simply not enough flexibility, the below services are the ones I have been able to rely on.
+
+* https://www.fastmail.com/[Fastmail]: Brilliant email service. Just oldschool, fast, and simple. With a sprinkle of calendars, contacts, notes, and files (even a simple website host!) using open standards.
+* https://www.backblaze.com/cloud-storage[BackBlaze B2]: Simple object storage that allows the right amount of flexibility. Pairs nicely with https://mountainduck.io/[Mountain Duck] and https://cyberduck.io/[Cyberduck].
+
+=== Desktop
+
+While I use a lot of different tools throughout my day, the below are some notable hidden gems.
+
+* https://mountainduck.io/[Mountain Duck]: Really great sync tool to get cloud sync capabilities close to Google Drive, Dropbox, etc... with https://www.backblaze.com/cloud-storage[BackBlaze B2].
+* https://cyberduck.io/[Cyberduck]: Useful for syncing single B2 buckets to offline storage when needed.
+* https://obsidian.md/[Obsidian]: Great tool to write notes in Markdown and sync with https://www.fastmail.help/hc/en-us/articles/1500000277882-Remote-file-access[Fastmail Filese WebDAV] for storage or https://www.backblaze.com/cloud-storage[BackBlaze B2].
+* https://adoc-studio.app/[adoc Studio]: While I tend to stick with https://code.visualstudio.com/[VS Code] or https://vscodium.com/[VSCodium], for those who are not developers (i.e., authors) or want some additional collaboration tools when writing in https://asciidoc.org/[AsciiDoc], adoc Studio is phenomenal.
+
+=== Mobile
+
+I don't really venture out much on the apps used on my phone, especially since I have gone back to using an iPhone. However, the below are some that have made using an iPhone easier.
+
+* https://apps.apple.com/gb/app/s3-files-bucket-storage/id6447647340[S3 Files]: Used to connect to my B2 buckets. Simple and just works.
+
+== Hardware
+
+* https://www.fairphone.com/nl[Fairphone]: How smartphones should be.
+* https://shop.fairphone.com/nl/fairbuds[Fairbuds]: How earbuds should be. Quality audio and repairability. Less eWaste.
+
+== Podcasts
+
+Below is a curated list, which changes frequently, of podcasts I enjoy. While the actual list of podcasts I follow is much longer, there are a few that I almost never listen to or only enjoy specific episode topics and guests.
+
+The list is in _roughly_ the order of preference.
+
+* https://www.toniandryan.com.au/[Toni & Ryan]: An awesome comedy podcast with a fantastic community behind it.
+* https://teamcoco.com/podcasts/conan-obrien-needs-a-friend[Conan O'Brien Needs A Friend]: I mean, it is Conan O'Brien. Good laughs.
+* https://www.youtube.com/playlist?list=PL8mG-RkN2uTw7PhlnAr4pZZz2QubIbujH[The WAN Show]: Full of hottakes and wholesome Luke.
+* https://darknetdiaries.com/[Darknet Diaries]: Great stories from the darkside of the internet.
+* https://www.bbc.co.uk/programmes/p0gf6rbs[Uncharted With Hannah Fry]: Brilliant podcast with fascinating true stories.
+* https://www.dungeonsanddaddies.com/[Dungeons and Daddies]: I mean, everyone has to have at least one D&D podcast on their list, no?
+* https://www.patagonia.com/stories/[Patagonia Stories]: True stories about helping planet eartch - and ourselves.
+* https://www.bbc.co.uk/sounds/brand/p0hhgmp6[Miss Me?]: Funny podcast with a touch of comforting feels that sometimes features David Harbour.
+
+== YouTube Content
+
+Channels run by individuals or organisations where I enjoy some of the content uploaded. Like with the podcasts, I watch other channels as well, but these are the ones I come back to the most often.
+
+=== Travel
+
+* https://www.youtube.com/channel/UCvK4bOhULCpmLabd2pDMtnA[Yes Theory]: Content that mixes travel with documentaries about kindness, seeking discomfort, and bettering yourself and others around you.
+* https://www.youtube.com/@OneBagTravels[OneBag Travels]: Phenomenal bag reviews.
+* https://www.youtube.com/@Nomads.Nation[Nomads Nation]: While Aaron and I don't agree on certain styles of bags or size of bags for EDC, he knows his stuff.
+
+=== Life
+
+* https://www.youtube.com/@sht-farm[Sh!t: We bought a farm]: A couple that bought a dilapidated farm in Scotland and are now redoing it.
+* https://www.youtube.com/@wildrosie[Roaming Wild Rosie]: Calming stories of a lady renovating her old cabin in the woods.
+
+=== Technology
+
+* https://www.youtube.com/@snazzy[Snazzy Labs]: Great tech reviews and content on quirky tech.
+* https://www.youtube.com/@techlinked[TechLinked]: Tech news.
+* https://www.youtube.com/@LinusTechTips[LinusTechTips]: The tips of tech.
+* https://www.youtube.com/@ShortCircuit[ShortCircuit]: Unboxings and first impressions of tech and tech adjacent stuff.
+
+=== Gaming / Entertainment
+
+* https://www.youtube.com/@GameLinked[GameLinked]: Gaming news.
+* https://www.youtube.com/@lollujo[Lollujo]: Do a football!
+
+=== Documentaries
+
+* https://www.youtube.com/@GhostTownLiving[Ghost Town Living]: A channel run by a lad who bought an abandoned mining town and is now trying to revive it - while telling everyone about the history of the town as he discovers it.
+* https://www.youtube.com/@patagonia/videos[Patagonia Films]: Great documentaries on earth, society, and humanity.
