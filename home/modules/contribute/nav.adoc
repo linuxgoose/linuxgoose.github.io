@@ -1,5 +1,7 @@
 * xref:ROOT:index.adoc[Home]
 
+* xref:ROOT:links.adoc[Links]
+
 * Portfolio
 ** xref:ROOT:development_work.adoc[Development Work]
 ** xref:ROOT:writing_work.adoc[Writing Work]
